@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "To do list made in Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doingandlearning/angular-todo.git"
+  },
+  "author": "Kevin Cunningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doingandlearning/angular-todo/issues"
+  },
+  "homepage": "https://github.com/doingandlearning/angular-todo#readme"
+}
